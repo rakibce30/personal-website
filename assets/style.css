@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+
+.my-btn {
+    background-color: tomato;
+    color: #fff;
+}
+
+header {
+    background-image: url(./images/header-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.headerimg img {
+    width: 100%;
+}
+
+.my-title {
+    font-weight: 600;
+    color: tomato;
+}
+
+.biography {
+    background-image: url(./images/biography-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.latestimg {
+    width: 100%;
+}
+.work {
+    background-image: url(./images/latest-work-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer {
+    background-image: url(./images/footer-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer span {
+    font-size: 12px;
+
+}
